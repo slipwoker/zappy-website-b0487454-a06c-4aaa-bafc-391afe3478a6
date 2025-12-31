@@ -1,0 +1,65 @@
+# משרד עורכי דין נדב שלוש — Generative Engine Optimization Map
+
+> משרד עורכי דין נדב שלוש מציע שירותים משפטיים מקצועיים בנדל״ן, מחלוקות משפחתיות, דיני עבודה ויעוץ תאגידי. עורך דין נדב שלוש מתמחה במתן שירותים משפטיים ברמה גבוהה ללקוחות פרטיים ועסקיים. המשרד מבין שכל מקרה הוא ייחודי ודורש גישה מותאמת אישית.
+
+---
+
+## Pages
+
+### דף הבית
+https://-b0487454.zappy5.app
+משרד עורכי דין נדב שלוש מציע שירותים משפטיים מקצועיים בנדל״ן, דיני משפחה, עבודה ותאגידי. צרו קשר לייעוץ חינם!
+
+### שירותים
+https://-b0487454.zappy5.app/services
+גלו את מגוון השירותים המשפטיים שלנו: נדל״ן, דיני משפחה וממון, ייעוץ תאגידי ודיני עבודה. ייעוץ ראשוני חינם!
+
+### אודות
+https://-b0487454.zappy5.app/about
+למדו על משרד עורכי דין נדב שלוש - ניסיון רב-שנים, מקצועיות ומחויבות להצלחת הלקוחות. פגשו את הצוות המשפטי המקצועי שלנו.
+
+### צור קשר
+https://-b0487454.zappy5.app/contact
+צרו קשר עם משרד עורכי דין נדב שלוש לייעוץ משפטי מקצועי. פגישת ייעוץ ראשונית חינם. נשמח לעמוד לשירותכם!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-b0487454.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-b0487454.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-b0487454.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About משרד עורכי דין נדב שלוש
+משרד עורכי דין נדב שלוש מציע שירותים משפטיים מקצועיים בנדל״ן, מחלוקות משפחתיות, דיני עבודה ויעוץ תאגידי. עורך דין נדב שלוש מתמחה במתן שירותים משפטיים ברמה גבוהה ללקוחות פרטיים ועסקיים. המשרד מבין שכל מקרה הוא ייחודי ודורש גישה מותאמת אישית.
+
+## Services/Products
+- נדל״ן ומשקיעים
+- מחלוקות משפחתיות וממון
+- ייעוץ תאגידי ועסקי
+- דיני עבודה לעובדים
+
+## Target Audience
+- בעלי עסקים קטנים
+- משקיעי נדל"ן
+- לקוחות דיני משפחה
+
+## Industry
+משפטים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-b0487454.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-b0487454.zappy5.app/robots.txt
