@@ -1,65 +1,47 @@
-# משרד עורכי דין נדב שלוש — Generative Engine Optimization Map
-
-> משרד עורכי דין נדב שלוש מציע שירותים משפטיים מקצועיים בנדל״ן, מחלוקות משפחתיות, דיני עבודה ויעוץ תאגידי. עורך דין נדב שלוש מתמחה במתן שירותים משפטיים ברמה גבוהה ללקוחות פרטיים ועסקיים. המשרד מבין שכל מקרה הוא ייחודי ודורש גישה מותאמת אישית.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://-b0487454.zappy5.app
+https://example.com
 משרד עורכי דין נדב שלוש מציע שירותים משפטיים מקצועיים בנדל״ן, דיני משפחה, עבודה ותאגידי. צרו קשר לייעוץ חינם!
 
 ### שירותים
-https://-b0487454.zappy5.app/services
+https://example.com/services
 גלו את מגוון השירותים המשפטיים שלנו: נדל״ן, דיני משפחה וממון, ייעוץ תאגידי ודיני עבודה. ייעוץ ראשוני חינם!
 
 ### אודות
-https://-b0487454.zappy5.app/about
+https://example.com/about
 למדו על משרד עורכי דין נדב שלוש - ניסיון רב-שנים, מקצועיות ומחויבות להצלחת הלקוחות. פגשו את הצוות המשפטי המקצועי שלנו.
 
 ### צור קשר
-https://-b0487454.zappy5.app/contact
+https://example.com/contact
 צרו קשר עם משרד עורכי דין נדב שלוש לייעוץ משפטי מקצועי. פגישת ייעוץ ראשונית חינם. נשמח לעמוד לשירותכם!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-b0487454.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-b0487454.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-b0487454.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About משרד עורכי דין נדב שלוש
-משרד עורכי דין נדב שלוש מציע שירותים משפטיים מקצועיים בנדל״ן, מחלוקות משפחתיות, דיני עבודה ויעוץ תאגידי. עורך דין נדב שלוש מתמחה במתן שירותים משפטיים ברמה גבוהה ללקוחות פרטיים ועסקיים. המשרד מבין שכל מקרה הוא ייחודי ודורש גישה מותאמת אישית.
-
-## Services/Products
-- נדל״ן ומשקיעים
-- מחלוקות משפחתיות וממון
-- ייעוץ תאגידי ועסקי
-- דיני עבודה לעובדים
-
-## Target Audience
-- בעלי עסקים קטנים
-- משקיעי נדל"ן
-- לקוחות דיני משפחה
-
-## Industry
-משפטים
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://-b0487454.zappy5.app/sitemap.xml
-- **Robots.txt**: https://-b0487454.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
